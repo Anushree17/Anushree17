@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Anushree Jha</h1>
+<h1 align="center">Hello there !👋, I am Anushree Jha</h1>
 <h3 align="center">An aspiring Data Scientist from India.I am currently in the final year of my masters at NIT Trichy</h3>
 <img align="right" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
