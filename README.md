@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Analytics , Machine Learning , Deep Learning**
 
-- 📫 How to reach me **www.linkedin.com/in/anushree-jha-400a161a2**
+- 📫 How to reach me **anushree17work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
