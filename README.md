@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Data Scientist from India.I am currently in the final year of my masters at NIT Trichy</h3>
 <img align="right" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-- 🌱 I am currently learning about **Product Analytics and Product Management**
+- 🌱 I am currently learning about **Deep Learning and Large Language Models**
 
 - 💬 Ask me about **Analytics , Machine Learning , Deep Learning**
 
