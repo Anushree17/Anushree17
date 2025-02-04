@@ -1,7 +1,5 @@
 <h1 align="center">Hello there !👋, I am Anushree Jha</h1>
-<h3 align="center">I am an aspiring Data Scientist from India, currently in the final year of my Master’s at NIT Trichy. Passionate about data-driven problem-solving, I am particularly interested in analytics, product analytics, and artificial intelligence.
-
-Beyond academics, I am actively upskilling in AI, LLMs, and Deep Learning—exploring cutting-edge advancements and honing my expertise in machine learning, NLP, and computer vision. With a strong analytical mindset and a deep curiosity for how data shapes decision-making, I strive to leverage my skills to drive impactful, real-world solutions.</h3>
+<h3 align="center">I am an aspiring Data Scientist from India, currently in the final year of my Master’s at NIT Trichy. Passionate about data-driven problem-solving, I am particularly interested in analytics, product analytics, and artificial intelligence.Beyond academics, I am actively upskilling in AI, LLMs, and Deep Learning—exploring cutting-edge advancements and honing my expertise in machine learning, NLP, and computer vision. With a strong analytical mindset and a deep curiosity for how data shapes decision-making, I strive to leverage my skills to drive impactful, real-world solutions.</h3>
 <img align="right" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 - 🌱 I am currently learning about **Deep Learning and Large Language Models**
